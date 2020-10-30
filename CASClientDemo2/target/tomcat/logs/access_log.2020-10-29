@@ -1,0 +1,13 @@
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:25:44 +0800] "GET / HTTP/1.1" 302 - http-bio-9002-exec-2 67
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:25:44 +0800] "GET /?ticket=ST-14-EzbmbX40x3O5WgrdkeS6-cas01.example.org HTTP/1.1" 302 - http-bio-9002-exec-3 297
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:25:46 +0800] "GET / HTTP/1.1" 200 209 http-bio-9002-exec-4 1230
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:25:46 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9002-exec-5 4
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:26:37 +0800] "GET / HTTP/1.1" 302 - http-bio-9002-exec-7 8
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:26:46 +0800] "GET /?ticket=ST-15-rkfWSkWebyEbkqOUF6Jh-cas01.example.org HTTP/1.1" 302 - http-bio-9002-exec-8 24
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:26:46 +0800] "GET /;jsessionid=D6FCF1ED786A1C260841C27FAACF503D HTTP/1.1" 200 209 http-bio-9002-exec-10 1
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:26:46 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9002-exec-10 2
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:42:45 +0800] "GET / HTTP/1.1" 302 - http-bio-9002-exec-2 70
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:42:45 +0800] "GET /?ticket=ST-2-ttvNGo6cTwdPlPdGNJVW-cas01.example.org HTTP/1.1" 302 - http-bio-9002-exec-3 377
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:42:46 +0800] "GET / HTTP/1.1" 200 236 http-bio-9002-exec-4 959
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:13:42:47 +0800] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-9002-exec-5 3
+0:0:0:0:0:0:0:1 - - [29/Oct/2020:18:46:58 +0800] "GET / HTTP/1.1" 302 - http-bio-9002-exec-2 64
